@@ -20,3 +20,4 @@ const uploadClounary = async (filePath) => {
         throw error;
     }
 }
+export { uploadClounary };
